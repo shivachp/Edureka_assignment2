@@ -1,1 +1,2 @@
 Hi this text1 file
+line added in branch b2
